@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "Abstract blue and black geometric shapes.",
+      "imageUrl": "https://images.unsplash.com/photo-1489648022186-8f49310909a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhYnN0cmFjdCUyMGdlb21ldHJpY3xlbnwwfHx8fDE3NjE2NDU2NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract geometric"
+    },
+    {
+      "id": "portfolio-1",
+      "description": "Screenshot of a modern web application dashboard.",
+      "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkYXNoYm9hcmQlMjB1aXxlbnwwfHx8fDE3NjE2OTQzNjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dashboard ui"
+    },
+    {
+      "id": "portfolio-2",
+      "description": "A vibrant e-commerce website homepage.",
+      "imageUrl": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxlY29tbWVyY2UlMjB3ZWJzaXRlfGVufDB8fHx8MTc2MTY1MDQzOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ecommerce website"
+    },
+    {
+      "id": "portfolio-3",
+      "description": "A clean and minimal portfolio website.",
+      "imageUrl": "https://images.unsplash.com/photo-1453928582365-b6ad33cbcf64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwb3J0Zm9saW8lMjB3ZWJzaXRlfGVufDB8fHx8MTc2MTY0MjY5OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "portfolio website"
+    },
+    {
+      "id": "portfolio-4",
+      "description": "A mobile application interface for a social media app.",
+      "imageUrl": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb2JpbGUlMjBhcHB8ZW58MHx8fHwxNzYxNzAxNTUzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mobile app"
+    },
+    {
+      "id": "testimonial-1",
+      "description": "Profile picture of a client.",
+      "imageUrl": "https://images.unsplash.com/photo-1502323777036-f29e3972d82f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwcm9maWxlJTIwcGVyc29ufGVufDB8fHx8MTc2MTYxNjU3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "profile person"
+    },
+    {
+      "id": "testimonial-2",
+      "description": "Profile picture of a client.",
+      "imageUrl": "https://images.unsplash.com/photo-1539605480396-a61f99da1041?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwcm9maWxlJTIwcGVyc29ufGVufDB8fHx8MTc2MTYxNjU3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "profile person"
+    },
+    {
+      "id": "testimonial-3",
+      "description": "Profile picture of a client.",
+      "imageUrl": "https://images.unsplash.com/photo-1684966610091-f6beda2d025a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwcm9maWxlJTIwcGVyc29ufGVufDB8fHx8MTc2MTYxNjU3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "profile person"
+    }
+  ]
+}
