@@ -52,6 +52,13 @@ const testimonials = [
     quote: "The team at BickBuilt is incredibly talented. They delivered a beautiful, high-performing website on time and on budget. We couldn't be happier.",
     avatar: PlaceHolderImages.find((img) => img.id === 'testimonial-3')?.imageUrl || '',
   },
+  {
+    id: 4,
+    name: 'Emily Rodriguez',
+    company: 'Marketing Director, StyleHub',
+    quote: "The team at BickBuilt is incredibly talented. They delivered a beautiful, high-performing website on time and on budget. We couldn't be happier.",
+    avatar: PlaceHolderImages.find((img) => img.id === 'testimonial-3')?.imageUrl || '',
+  },
 ];
 
 const heroImage = PlaceHolderImages.find((img) => img.id === 'hero');
