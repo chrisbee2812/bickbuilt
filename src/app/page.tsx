@@ -67,9 +67,18 @@ export default function Home() {
   return (
     <div className="flex flex-col">
       <section className="relative w-full py-20 md:py-32 lg:py-40 bg-card">
-        <div className="container mx-auto px-4 md:px-6 text-center">
-          <div className="max-w-3xl mx-auto">
-            <h1 className="text-4xl font-headline font-bold tracking-tighter sm:text-5xl md:text-6xl text-foreground">
+        <Image
+          src='/fb-cover.webp'
+          alt='Hero image of glowing orange nodes interconnected and a green plant growing within the network'
+          fill
+          className="object-cover opacity-80"
+          priority
+          data-ai-hint='interconnected orange nodes with small green plant growing'
+        />
+        <div className="absolute inset-0" />
+        <div className="relative grid z-10 mx-auto grid-cols-7 px-4 md:px-6 text-center">
+          <div className="max-w-3xl col-span-5 mx-auto">
+            <h1 className="text-4xl font-headline font-bold tracking-tighter sm:text-5xl md:text-6xl bg-clip-text text-transparent bg-[linear-gradient(to_right,theme(colors.foreground),theme(colors.foreground),theme(colors.foreground),theme(colors.foreground),theme(colors.orange.500),theme(colors.foreground),theme(colors.foreground),theme(colors.foreground))] bg-[length:200%_auto] animate-gradient">
               Building the Digital Future, Together.
             </h1>
             <p className="mt-6 text-lg text-muted-foreground">
@@ -92,6 +101,7 @@ export default function Home() {
               </Button>
             </div>
           </div>
+          <div className="col-span-2" />
         </div>
       </section>
 
