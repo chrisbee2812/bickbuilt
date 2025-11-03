@@ -71,7 +71,7 @@ export default function Home() {
           src='/fb-cover.webp'
           alt='Hero image of glowing orange nodes interconnected and a green plant growing within the network'
           fill
-          className="object-cover opacity-80"
+          className="object-cover opacity-70"
           priority
           data-ai-hint='interconnected orange nodes with small green plant growing'
         />
@@ -133,12 +133,17 @@ export default function Home() {
             <div>
               <h2 className="text-3xl font-headline font-bold tracking-tighter sm:text-4xl">Our Mission & Values</h2>
               <p className="mt-4 text-muted-foreground md:text-lg">
-                Our mission is to empower businesses by creating powerful, elegant, and effective web solutions. We are driven by a passion for innovation, a commitment to quality, and a desire to build lasting partnerships with our clients. Your success is our success.
+                Our mission is to build powerful, effective websites that form the cornerstone of our clients' growth. We combine strategic design, expert development, and data-driven optimization to create digital experiences that work.
               </p>
               <ul className="mt-6 space-y-2 text-muted-foreground">
-                <li className="flex items-center"><ArrowRight className="h-4 w-4 mr-2 text-primary"/> Client-Centric Approach</li>
-                <li className="flex items-center"><ArrowRight className="h-4 w-4 mr-2 text-primary"/> Uncompromising Quality</li>
-                <li className="flex items-center"><ArrowRight className="h-4 w-4 mr-2 text-primary"/> Innovation and Technology</li>
+                <li className="flex items-center"><ArrowRight className="h-4 w-4 mr-2 text-primary"/> <strong>Quality is the Baseline:</strong></li>
+                  <p className="text-sm">Excellence isn't a feature; it's a requirement. We are obsessed with clean code, intuitive design, and seamless performance in everything we build.</p>
+                <li className="flex items-center"><ArrowRight className="h-4 w-4 mr-2 text-primary"/> <strong>Your Growth is Our Goal:</strong></li>
+                  <p className="text-sm">We measure our success by your success. Every decision—from design to development to SEO—is made with your business objectives and ROI in mind.</p>
+                <li className="flex items-center"><ArrowRight className="h-4 w-4 mr-2 text-primary"/> <strong>Forward-Thinking by Design:</strong></li>
+                  <p className="text-sm">We build for tomorrow, not just for today. Our solutions are scalable, secure, and maintained to adapt to new technologies and market trends.</p>
+                <li className="flex items-center"><ArrowRight className="h-4 w-4 mr-2 text-primary"/> <strong>Communication, Uncomplicated:</strong></li>
+                  <p className="text-sm">We believe in a transparent, collaborative process. No jargon, no surprises—just clear dialogue and a shared vision from start to finish.</p>
               </ul>
             </div>
             {heroImage && (
