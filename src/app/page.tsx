@@ -77,7 +77,7 @@ export default function Home() {
         <div className="absolute inset-0" />
         <div className="relative grid z-10 mx-auto grid-cols-7 px-4 md:px-6 text-center">
           <div className="max-w-3xl col-span-5 mx-auto">
-            <h1 className="text-4xl pb-4 font-headline font-bold tracking-tighter sm:text-5xl md:text-6xl bg-clip-text text-transparent bg-[linear-gradient(to_right,theme(colors.foreground),theme(colors.foreground),theme(colors.foreground),theme(colors.foreground),theme(colors.orange.500),theme(colors.foreground),theme(colors.foreground),theme(colors.foreground))] bg-[length:200%_auto] animate-gradient">
+            <h1 className="text-4xl pb-2 font-headline font-bold tracking-tighter sm:text-5xl md:text-6xl bg-clip-text text-transparent bg-[linear-gradient(to_right,theme(colors.foreground),theme(colors.foreground),theme(colors.foreground),theme(colors.foreground),theme(colors.orange.500),theme(colors.foreground),theme(colors.foreground),theme(colors.foreground))] bg-[length:200%_auto] animate-gradient">
               Building the Digital Future, Together.
             </h1>
             <p className="mt-6 text-lg text-muted-foreground">
