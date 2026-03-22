@@ -77,11 +77,11 @@ export default function ContactPage() {
                 <div className='space-y-4'>
                     <div className='flex items-center gap-4'>
                         <Mail className='h-5 w-5 text-primary' />
-                        <a href='mailto:hello@bickbuilt.com' className='text-muted-foreground hover:text-primary'>hello@bickbuilt.com</a>
+                        <a href='mailto:hello@bickbuilt.com' className='text-muted-foreground hover:text-primary'>info@bickbuilt.com</a>
                     </div>
                     <div className='flex items-center gap-4'>
                         <Phone className='h-5 w-5 text-primary' />
-                        <span className='text-muted-foreground'>+1 (555) 123-4567</span>
+                        <span className='text-muted-foreground'>+44 07515 718874</span>
                     </div>
                 </div>
             </div>

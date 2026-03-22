@@ -1,7 +1,10 @@
-export default function PortfolioPage() {
+export default function DemoPage() {
   return (
-    <div className="flex justify-center text-6xl font-extrabold bg-clip-text text-transparent bg-[linear-gradient(to_right,theme(colors.foreground),theme(colors.foreground),theme(colors.foreground),theme(colors.foreground),theme(colors.orange.500),theme(colors.foreground),theme(colors.foreground),theme(colors.foreground),theme(colors.foreground),theme(colors.foreground))] bg-[length:200%_auto] animate-gradient">
-        <h1>Test Page</h1>
+    <div className="flex h-96 items-end justify-center p-4">
+        <h1 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">
+            Beyond-Screen Expansion Demo
+        </h1>
     </div>
-    
-  )}
+          
+  );
+}

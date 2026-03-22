@@ -70,9 +70,8 @@ export default function Home() {
         <Image
           src='/fb-cover.webp'
           alt='Hero image of glowing orange nodes interconnected and a green plant growing within the network'
-          fill
           className="object-cover opacity-70"
-          priority
+          fill
           data-ai-hint='interconnected orange nodes with small green plant growing'
         />
         <div className="absolute inset-0" />
