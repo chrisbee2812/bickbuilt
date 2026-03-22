@@ -77,7 +77,7 @@ export default function ContactPage() {
                 <div className='space-y-4'>
                     <div className='flex items-center gap-4'>
                         <Mail className='h-5 w-5 text-primary' />
-                        <a href='mailto:hello@bickbuilt.com' className='text-muted-foreground hover:text-primary'>info@bickbuilt.com</a>
+                        <a href='mailto:info@bickbuilt.com' className='text-muted-foreground hover:text-primary'>info@bickbuilt.com</a>
                     </div>
                     <div className='flex items-center gap-4'>
                         <Phone className='h-5 w-5 text-primary' />

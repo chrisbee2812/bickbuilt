@@ -58,7 +58,7 @@ export function Header() {
           </div>
           <div className="flex items-center gap-2">
             <Mail className="h-5 w-5 text-primary" />
-            info@bickbuilt.com
+            <a href='mailto:info@bickbuilt.com' className='text-muted-foreground hover:text-primary'>info@bickbuilt.com</a>
           </div>
         </div>
       </div>
